@@ -1,15 +1,15 @@
 # GPU Passthrough Scripts
 
-Scripts for passing a GPU from a Linux host to a Windows VM and back.
+Scripts for passing a GPU from a Linux host to a Windows VM and back.  
 
 ## Note: 
-  Not for Single GPU!
-  Not for Single GPU!
-  Not for Single GPU!
+  Not for Single GPU!  
+  Not for Single GPU!  
+  Not for Single GPU!  
 
 ## Thanks to:
-  https://gitlab.com/risingprismtv/single-gpu-passthrough
-  https://gitlab.com/BrainStone/single-gpu-passthrough
+  https://gitlab.com/risingprismtv/single-gpu-passthrough  
+  https://gitlab.com/BrainStone/single-gpu-passthrough  
 
 ## Example Log
 ```
